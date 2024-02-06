@@ -5,8 +5,8 @@
 <div  align="center"> 
 
   <div style="display: inline_block"><br>
-  <h1> Tecnologias Favoritas </h1>
     <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h3> Tecnologias Favoritas </h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
