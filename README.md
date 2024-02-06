@@ -17,8 +17,8 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://icons8.com/icon/33039/amazon-web-services">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="aws.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="googlecloud.svg">
           
    </div>
     
