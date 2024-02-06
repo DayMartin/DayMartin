@@ -1,8 +1,5 @@
 ## Bem-vindo(a) ao meu GitHub
 <div align="center">
-<div align="center">
-  <img align="right" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayMartin&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 <br>
 <br>
 <div  align="center"> 
