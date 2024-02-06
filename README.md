@@ -5,7 +5,7 @@
 <div  align="center"> 
 
   <div style="display: inline_block"><br>
-  <hi> Tecnologias Favoritas </hi>
+  <h1> Tecnologias Favoritas </h1>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <img align="center" height="30" width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
