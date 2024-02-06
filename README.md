@@ -31,7 +31,7 @@
     </a>
     <a href = "https://www.linkedin.com/in/dinah-martins-8334b1199/">
       <img width="25" src="linkedin.svg">
-    </a>7
+    </a>
 </div>
   
 ![Snake animation](https://github.com/DayMartin/DayMartin/blob/output/github-contribution-grid-snake.svg)
